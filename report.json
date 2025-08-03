@@ -1,0 +1,27 @@
+{
+    "/api/context/...": {
+        "total": 43883,
+        "avg_response_time": 0.019,
+        "median_response_time": 0.012
+    },
+    "/api/homeworks/...": {
+        "total": 55104,
+        "avg_response_time": 0.093,
+        "median_response_time": 0.076
+    },
+    "/api/specializations/...": {
+        "total": 8154,
+        "avg_response_time": 0.053,
+        "median_response_time": 0.044
+    },
+    "/api/users/...": {
+        "total": 1447,
+        "avg_response_time": 0.066,
+        "median_response_time": 0.056
+    },
+    "/api/challenges/...": {
+        "total": 1476,
+        "avg_response_time": 0.078,
+        "median_response_time": 0.065
+    }
+}
